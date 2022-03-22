@@ -1,3 +1,30 @@
 /* ********* */
 /* @VARIABLES */
 /* ********* */
+
+
+// LISTA DE COLORES 
+// ****************
+
+$color_primary: #00a8ff;
+$color_secondary: #00d1ff;
+
+$color_tipografia: (
+    titulos: #110905,
+    texto: #6F6D6B,
+    links: #00d1ff,
+    links_hover: #00a8ff,
+    links_active: #00a8ff,
+    links_visited: #00d1ff,
+    links_visited_hover: #00a8ff,
+    links_visited_active: #00a8ff
+);
+
+$color_fondo: #F6F6F6;
+$color_rrss: #110704;
+
+$imagen__logo: url("/assets/img/desktop/logo.png");
+$imagen__fondo: url("../assets/img/desktop/fondo.jpg");
+$imagen__zapato: url("assets/img/desktop/zapato.png");
+
+
